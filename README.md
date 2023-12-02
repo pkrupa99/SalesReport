@@ -15,15 +15,17 @@ Running the code refreshes a sheet with Employee statistics and a visualization 
 
 <p>At the beginning sheet called 'Statistics' is updated. Sheet is based on the database found in the 'Order' sheet.</p>
 
-<p>Then the old word report filers are moved to the archive folder.</p>
+<p>Then the old word report files are moved to the archive folder.</p>
 
 <p>Then the script opens the report template in Word. It puts the date form 'Statistics' in special plases in Word. For this purpose are used bookmarks.<br />
 The visualization from the sheet 'Chart' is updated and also placed in Word.</p>
 
 
 <p>Personalized report for the employee is saved to disk.</p>
-![word](./images/emailEmployee.png)
+
+![word](./images/wordEmployee.png)
 
 <p>The last step is to prepared emails to employees. The data is taked from the sheet 'Employees'. The message comes with a Word file and a fixed message template encoded with html. The email contains a link to the website and a link to email of the IT specialist.</p>
-![email](./images/wordEmployee.png)
+
+![email](./images/emailEmployee.png)
 
