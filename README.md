@@ -22,8 +22,8 @@ The visualization from the sheet 'Chart' is updated and also placed in Word.</p>
 
 
 <p>Personalized report for the employee is saved to disk.</p>
-![word_employee](https://github.com/pkrupa99/SalesReport/blob/main/images/emailEmployee.JPG?raw=true)<br />
+![word](./images/emailEmployee.png)
 
 <p>The last step is to prepared emails to employees. The data is taked from the sheet 'Employees'. The message comes with a Word file and a fixed message template encoded with html. The email contains a link to the website and a link to email of the IT specialist.</p>
-![email_employee](https://github.com/pkrupa99/SalesReport/blob/main/images/wordEmployee.JPG?raw=true)
+![email](./images/wordEmployee.png)
 
